@@ -4,7 +4,7 @@ just-tech-news
 
 Live at https://tom2u.github.io/just-tech-news/  
 
-Progress states of webpage constructed during module 12.  
+Progress states of webpage constructed during module 13.  
 Each link is to the state of the webpage at the END of the indicated lesson.  
 
-[13.1.1](https://github.com/tom2u/coding-online-module-13/tree/master/13.1.1)  
+[13.1.4](https://github.com/tom2u/coding-online-module-13/tree/master/13.1.4)  

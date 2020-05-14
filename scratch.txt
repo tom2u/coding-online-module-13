@@ -1,0 +1,12 @@
+{
+	"username": "Learnantino",
+	"email": "learnantino@gmail.com",
+	"password": "password1234"
+}
+
+
+{
+	"title": "Run buddy reaches 1 million subscribers",
+	"post_url": "https://taskmaster.com/press",
+	"user_id": 1
+}

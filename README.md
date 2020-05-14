@@ -15,4 +15,5 @@ Each link is to the state of the webpage at the END of the indicated lesson.
 [13.3.4](https://github.com/tom2u/coding-online-module-13/tree/master/13.3.4)  
 [13.3.6](https://github.com/tom2u/coding-online-module-13/tree/master/13.3.6)  
 [13.4.3](https://github.com/tom2u/coding-online-module-13/tree/master/13.4.3)  
+[13.4.5](https://github.com/tom2u/coding-online-module-13/tree/master/13.4.5)  
 
